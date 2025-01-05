@@ -1,0 +1,8 @@
+* solucion: *
+
+Array size: 50000000
+
+Tiempo con función reduc_operation: 7.880069 segundos, Suma: 24999540.85524361
+Tiempo con numpy.sum(): 0.029280 segundos, Suma: 24999540.855248712
+Tiempo con numpy.ndarray.sum(): 0.026953 segundos, Suma: 24999540.855248712
+
